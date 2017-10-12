@@ -1,4 +1,6 @@
 # Couchbase Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fdocs-cb4.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fdocs-cb4?ref=badge_shield)
+
 
 The Couchbase Documentation Repository for Couchbase 4+ DITA based Docs
 
@@ -102,3 +104,7 @@ Generating docs is done like this:
 dita -f html5 -i cb-docs.ditamap -o ~/tmp/output/ -Deditlink.remote.ditamap.url=https://github.com/couchbase/docs-cb4/edit/master/content/cb-docs.ditamap
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fdocs-cb4.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fdocs-cb4?ref=badge_large)
